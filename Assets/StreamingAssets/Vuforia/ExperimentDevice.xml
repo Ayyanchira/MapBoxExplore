@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="GoogleMapSatView" size="0.243000 0.144809" />
+    <ImageTarget name="mapformapbox" size="0.243000 0.139527" />
+    <ImageTarget name="CabFareCard" size="0.089000 0.055204" />
+  </Tracking>
+</QCARConfig>
